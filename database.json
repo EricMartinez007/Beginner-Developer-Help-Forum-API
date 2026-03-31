@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Luffy",
+      "email": "mdluffy@goingmerry.edu",
+      "cohort": 56
+    },
+    {
+      "id": 2,
+      "name": "Zoro",
+      "email": "mosshead@goingmerry.edu",
+      "cohort": 2
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "email": "orange@goingmerry.edu",
+      "cohort": 3
+    },
+    {
+      "id": 4,
+      "name": "Sanji",
+      "email": "firefeet@goingmerry.edu",
+      "cohort": 5
+    },
+    {
+      "id": 5,
+      "name": "Tony Tony Chopper",
+      "email": "thedoctor@goingmerry.edu",
+      "cohort": 110
+    },
+    {
+      "id": 6,
+      "name": "Franky",
+      "email": "supppppeeeerrrrr@goingmerry.edu",
+      "cohort": 39
+    },
+    {
+      "id": 7,
+      "name": "Nico Robin",
+      "email": "seisfleur@goingmerry.edu",
+      "cohort": 7
+    },
+    {
+      "id": 8,
+      "name": "Brook",
+      "email": "binkssake@goingmerry.edu",
+      "cohort": 43
+    },
+    {
+      "id": 9,
+      "name": "Jinbe",
+      "email": "knightofthesea@goingmerry.edu",
+      "cohort": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "I'm going to be King of the Pirates!",
+      "body": "Death. Fate. Dreams. These unstoppable ideas are held deep in the heart of a man. As long as there are people who seek freedom in this life, these things shall not vanish from the earth.",
+      "date": "3D2Y",
+      "userId": 1,
+      "topicId": 1
+    },
+    {
+      "id": 2,
+      "title": "The All Blue",
+      "body": "Everyone has things they can and cannot do. I'll do what you can't do, and you do what I can't do",
+      "date": "3D2Y",
+      "userId": 4,
+      "topicId": 3 
+    },
+    {
+      "id": 3,
+      "title": "Bink's Sake",
+      "body": "Refrain Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho. Gather up all of the crew! It's time to ship out Bink's brew! Sea wind blows. To where? Who knows? The waves will be our guide! O'er across the ocean's tide Rays of sunshine far and wide Birds they sing of cheerful things, in circles passing by! Bid farewell to weaver's town! Say so long to port renowned! Sing a song, it won't be long, before we're casting off! Cross the gold and silver seas The salty spray puts us at ease! Day and night to our delight The voyage never ends!Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho. Gather up all of the crew! It's time to ship out Bink's brew! Pirates we, eternally are challenging the sea! With the waves to rest our heads Ship beneath us as our beds! Hoisted high upon the mast our Jolly Roger flies! Somewhere in the endless sky Stormy winds are blowin' by! Waves are dancing, evening comes It's time to sound the drums! But steady men may never fear! Tomorrow's skies are always clear! So pound your feet and clap your hands till sunny days return! Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho. Gather up all of the crew! It's time to ship out Bink's brew! Wave good-bye, but don't you cry Our memories remain Our days are but a passing dream, everlasting though they seem 'neath the moon we'll meet again, the wind's our lullaby! Gather up all of the crew! It's time to ship out Bink's brew! Sing a song and play along For all the ocean's wide! After all is said and done You'll end up a skeleton! So spread your tale, from dawn till dusk, upon these foamy seas! Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho. Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho, Yo-hohoho, yo-hoho-ho",
+      "date": "3D2Y",
+      "userId": 8,
+      "topicId": 2 
+    },
+    {
+      "id": 4,
+      "title": "The Truth of Ohara",
+      "body": "The Forbidden Knowledge: Scholars researched the Void Century, a 100-year gap in history the World Government deems a threat to its existence. The Genocide: The Government initiated a Buster Call to annihilate the island, killing nearly all inhabitants to bury the truth about the ancient kingdom. The Sole Survivor: Nico Robin, then a child, was the only survivor of the Ohara incident. The Legacy: Despite the destruction of the Tree of Knowledge, the scholars' books were saved by Jaguar D. Saul and a group of giants, ensuring the research reached Elbaf.",
+      "date": "3D2Y",
+      "userId": 7,
+      "topicId": 5 
+    },
+    {
+      "id": 5,
+      "title": "When Does A Man Die?",
+      "body": "When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom? No. It's when...they are forgotten!",
+      "date": "3D2Y",
+      "userId": 5,
+      "topicId": 7
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Functions"
+    },
+    {
+      "id": 2,
+      "name": "React"
+    },
+    {
+      "id": 3,
+      "name": "Array Methods"
+    },
+    {
+      "id": 4,
+      "name": "Debugging"
+    },
+    {
+      "id": 5,
+      "name": "Asynchronous Programming"
+    },
+    {
+      "id": 6,
+      "name": "Github"
+    },
+    {
+      "id": 7,
+      "name": "Project Showcase"
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 1
+    },{
+      "id": 2,
+      "userId": 1,
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "postId": 4
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "postId": 5
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "postId": 1
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "postId": 3
+    },
+    {
+      "id": 8,
+      "userId": 3,
+      "postId": 1
+    },
+    {
+      "id": 9,
+      "userId": 3,
+      "postId": 5
+    },
+    {
+      "id": 10,
+      "userId": 3,
+      "postId": 4
+    },
+    {
+      "id": 11,
+      "userId": 4,
+      "postId": 1
+    },
+    {
+      "id": 12,
+      "userId": 4,
+      "postId": 4
+    },
+    {
+      "id": 13,
+      "userId": 4,
+      "postId": 3
+    },
+    {
+      "id": 14,
+      "userId": 5,
+      "postId": 4
+    },
+    {
+      "id": 15,
+      "userId": 5,
+      "postId": 1
+    },
+    {
+      "id": 16,
+      "userId": 6,
+      "postId": 1
+    },
+    {
+      "id": 17,
+      "userId": 7,
+      "postId": 1
+    },
+    {
+      "id": 18,
+      "userId": 7,
+      "postId": 5
+    },
+    {
+      "id": 19,
+      "userId": 8,
+      "postId": 1
+    },
+    {
+      "id": 20,
+      "userId": 9,
+      "postId": 1
+    }
+  ]
+}
